@@ -1,0 +1,46 @@
+================================================================================
+HEART DISEASE CLASSIFICATION - MODEL EVALUATION SUMMARY
+================================================================================
+
+BEST PERFORMING MODELS BY METRIC:
+--------------------------------------------------------------------------------
+Accuracy                 : Random Forest        (0.8913)
+Precision                : Random Forest        (0.8636)
+Recall (Sensitivity)     : Logistic Regression  (0.9048)
+F1-Score                 : Random Forest        (0.8837)
+ROC-AUC                  : Random Forest        (0.9524)
+
+================================================================================
+DETAILED RESULTS (TEST SET):
+================================================================================
+
+
+Logistic Regression:
+  Accuracy:  0.8478
+  Precision: 0.7917
+  Recall:    0.9048
+  F1-Score:  0.8444
+  ROC-AUC:   0.9390
+
+Decision Tree:
+  Accuracy:  0.8261
+  Precision: 0.8095
+  Recall:    0.8095
+  F1-Score:  0.8095
+  ROC-AUC:   0.8343
+
+Random Forest:
+  Accuracy:  0.8913
+  Precision: 0.8636
+  Recall:    0.9048
+  F1-Score:  0.8837
+  ROC-AUC:   0.9524
+
+Gradient Boosting:
+  Accuracy:  0.8478
+  Precision: 0.7917
+  Recall:    0.9048
+  F1-Score:  0.8444
+  ROC-AUC:   0.9390
+
+================================================================================

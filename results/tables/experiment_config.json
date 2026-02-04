@@ -1,0 +1,30 @@
+{
+    "data_path": "/home/mushfiq/Desktop/WORK FOLDER 1/xai_heart_disease/experiments/data/processed.cleveland.data",
+    "random_state": 42,
+    "train_size": 211,
+    "val_size": 46,
+    "test_size": 46,
+    "n_features": 13,
+    "feature_names": [
+        "age",
+        "sex",
+        "cp",
+        "trestbps",
+        "chol",
+        "fbs",
+        "restecg",
+        "thalach",
+        "exang",
+        "oldpeak",
+        "slope",
+        "ca",
+        "thal"
+    ],
+    "models": [
+        "Logistic Regression",
+        "Decision Tree",
+        "Random Forest",
+        "Gradient Boosting"
+    ],
+    "timestamp": "2026-02-04 11:20:56"
+}
