@@ -18,6 +18,9 @@ This project implements an end-to-end machine learning pipeline for heart diseas
 - **Publication-Ready Outputs**: High-quality figures, tables, and LaTeX exports
 - **Reproducible Pipeline**: Automated execution scripts with fixed random seeds
 
+## System Architecture/Framework/Diagram
+<img width="1536" height="1024" alt="xxx" src="https://github.com/user-attachments/assets/272424f3-280d-4b65-889a-8e8cdcb33931" />
+
 ## 📁 Project Structure
 
 ```
